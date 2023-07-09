@@ -23,3 +23,6 @@ eas build -p android --profile preview
 ```
 
 ###### -p -----> plateform
+
+
+https://expo.dev/artifacts/eas/fGhw5Pva8espa3P1Ew4BxT.apk
