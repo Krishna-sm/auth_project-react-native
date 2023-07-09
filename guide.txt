@@ -1,0 +1,10 @@
+npm cache verify  --- verify the cache
+keyboardShouldPersistTaps="handled"  -- for securee overlap scrollview
+
+
+
+eas build:configure    ---- configuration command
+
+
+eas build -p android --profile preview  
+-p -----> plateform
